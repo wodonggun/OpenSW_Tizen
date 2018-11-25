@@ -57,7 +57,7 @@
 https://github.com/Samsung/TizenRT/pull/2487
 
 - 드디어 TizenRT pull Request 성공!
-![default](https://user-images.githubusercontent.com/35188271/48975719-9b024280-f0ba-11e8-8517-8f3da226ee58.PNG)
+![default](https://user-images.githubusercontent.com/35188271/48976506-60a1a100-f0cc-11e8-956d-712dd30d92af.PNG)
 
 
 
