@@ -24,7 +24,7 @@
 8. 개발자의 몸값은 천장부지 
 
 *****
-정리 : 앱개발자가 아닌, 플랫폼 개발자가 되자!
+<center>정리 : 앱개발자가 아닌, 플랫폼 개발자가 되자!</center>
 *****
 　　　
 # ■ 직접 TizenRT 컨트리뷰터 
@@ -38,8 +38,8 @@
 
 
 ## 2. 두번째 pull request 도전 = 알수없는 build 에러
-https://github.com/Samsung/TizenRT/pull/2486
-`원인을 파악해보려고 하였지만 바꾼것은 스페이스 -> 탭키로 변경하였지만 빌드 에러가 발생`
+> https://github.com/Samsung/TizenRT/pull/2486
+```원인을 파악해보려고 하였지만 바꾼것은 스페이스 -> 탭키로 변경하였지만 빌드 에러가 발생```
 
 ![1](https://user-images.githubusercontent.com/35188271/48975737-588d3580-f0bb-11e8-9889-e75082f24043.png)
 
@@ -60,6 +60,14 @@ https://github.com/Samsung/TizenRT/pull/2487
 
 
 
+
+
+
+
+
+
+# 마크다운 정리
+- https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 
 
