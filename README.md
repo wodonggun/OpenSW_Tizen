@@ -79,6 +79,29 @@ https://review.tizen.org
 https://github.com/kosslab-kr  (공부)
 
 
+
+
+
+
+# OS 설치 
+
+1. 강의 4번
+
+2. 무선연결
+wifi_manager_test
+
+# 용어 정리
+
+GBS Git build system
+SCM Source code Management
+OBS : open Build system
+
+head - 디스플레이를 필요로하는 IoT
+headless - 머리가없는(display) IoT
+
+
+
+
 # 마크다운 정리
 - https://gist.github.com/ihoneymon/652be052a0727ad59601
 
