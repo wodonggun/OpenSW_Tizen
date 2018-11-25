@@ -47,6 +47,7 @@
 
 ![2](https://user-images.githubusercontent.com/35188271/48975738-588d3580-f0bb-11e8-962a-6993fec438c8.PNG)
 
+> SungHan-Chang님의 의견을 듣고 conflict부분을 수정하였으나 여전히 빌드 에러 발생. 결국 pull Request를 close시키고 다시 하기로 결정.
 
 
 ## 3. 스페이스 -> 탭으로 변경한 주석 정렬을 다시 원상복귀하여 pull request
