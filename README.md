@@ -60,6 +60,10 @@ https://github.com/Samsung/TizenRT/pull/2487
 ![default](https://user-images.githubusercontent.com/35188271/48976506-60a1a100-f0cc-11e8-956d-712dd30d92af.PNG)
 
 
+## 4. 브랜치 합병 완료
+
+![1](https://user-images.githubusercontent.com/35188271/49210620-e55c2a00-f400-11e8-8563-f2fd03f6c48a.PNG)
+
 
 <br><br>
 
