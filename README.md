@@ -118,14 +118,14 @@ https://github.com/kosslab-kr  (공부)
 wifi_manager_test
 
 # 용어 정리
-
+```
 GBS Git build system
 SCM Source code Management
 OBS : open Build system
 
 head - 디스플레이를 필요로하는 IoT
 headless - 머리가없는(display) IoT
-
+```
 
 
 
